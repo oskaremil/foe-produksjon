@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Forge of Empires produksjonslinjer
 
-You can use the [editor on GitHub](https://github.com/oskaremil/foe-produksjon/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Dette diagrammet ble til når jeg kom til _Morgendagen_ og prøvde å finne ut hvilke bygninger jeg trengte for å optimalisere produksjonsbygningene mine.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Diagrammet nedenfor viser hvilke bygninger hver enkelt produksjonsbygning fra _Den moderne tid_ og fremover trenger for å produsere råstoff.
 
-### Markdown
+_Tips: Last ned diagrammet eller bildefilen og gjør dine egne notat for hvilke ressurser du har som styrker de enkelte produksjonsbygningene. Da blir det plutselig veldig lett å se hvilke bygninger du skal satse på å bygge._
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Legend
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```
++ Bygningen produserer denne varen.
+- Bygningen trenger denne råvaren.
+# Bygningen får økt produksjon av denne ressursen.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Forge of Empires produksjonsbygninger.dia](Forge%20of%20Empires%20produksjonsbygnigner.dia)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oskaremil/foe-produksjon/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![PNG eksport av 'Forge of Empires produksjonsbygninger.dia'](Forge%20of%20Empires%20produksjonsbygnigner.png)
