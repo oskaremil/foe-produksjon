@@ -16,4 +16,4 @@ _Tips: Last ned diagrammet eller bildefilen og gjør dine egne notat for hvilke 
 
 [Forge of Empires produksjonsbygninger.dia](Forge%20of%20Empires%20produksjonsbygnigner.dia)
 
-![PNG eksport av 'Forge of Empires produksjonsbygninger.dia'](Forge%20of%20Empires%20produksjonsbygnigner.png)
+![PNG eksport av 'Forge of Empires produksjonsbygninger.dia'](Forge%20of%20Empires%20produksjonsbygnigner.png "Trykk på bildet for å se en større versjon)
